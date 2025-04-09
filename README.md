@@ -12,8 +12,8 @@ This project builds a machine learning model using XGBoost to predict customer c
 
 ## 📁 Files
 
-- `Churn_XGBoost.ipynb` – Main notebook containing the full pipeline
-- `churn.csv` – Sample dataset used for training and evaluation
+- `TelcoCustomerChurnXGB.ipynb` – Main notebook containing the full pipeline
+- `Telco_customer_churn.xlsx` – Sample dataset used for training and evaluation
 
 ## 🧪 Technologies Used
 
